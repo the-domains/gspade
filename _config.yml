@@ -1,0 +1,14 @@
+layout_spectrum: 0.21365763060748577
+typography_spectrum: 0.20910288812592626
+color:
+  brandStrength: 0.9728820391464978
+  lightness: 0.9013284824322909
+  saturation: 0.09269404388032854
+  rhythmicContrast: 0.3023585386108607
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: GSPADE
